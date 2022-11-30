@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import unit4.collectionsLib.*;
-class only2{
+class only2NSt{
     public static void stackChecker(Stack<Integer> i){
         // forms new stack that contains only the nums that devide by 2 and not by 5
         Stack<Integer> temp = new Stack<Integer>();
