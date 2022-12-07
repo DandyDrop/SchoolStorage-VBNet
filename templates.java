@@ -1,7 +1,7 @@
 //Generate Stack
 public static void main(String[] args){
         Stack<Integer> s = new Stack<Integer>();
-        for(int i = -2; i < 5; i++)
+        for(int i = 0; i < 5; i++)
         {
             s.push(i);
         }
